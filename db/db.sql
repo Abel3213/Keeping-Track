@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS Workplace;
+CREATE DATABASE Workplace;
+USE Workplace;
