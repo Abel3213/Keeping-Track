@@ -6,7 +6,7 @@ const db = mysql.createConnection({
     user: 'root',
     // Your MySQL password
     password: 'coco32!5502s',
-    database: 'Workplace'
+    database: 'workplace'
 });
 
 module.exports = db;
